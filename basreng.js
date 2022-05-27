@@ -23,6 +23,23 @@ I. PRODUKSI
     - efisien
 ------------------------------------------------------------------------------------------------------------------------------
 II. MARKETING
+  - pasar tujuan adalah netizen
+  - media 
+    - influencer facebook
+      - mencari target
+        - teman sendiri
+        - lebih dari 3000 folower
+        - aktif sosmed
+        - 5 influencer
+      - konten
+      - interfal
+      - estimasi biaya 
+    - grup wa
+    - grup jual beli facebook
+    - konten tiktok
+    - konten youtube(pilihan)
+    - member draiv dan ojol lainya
+    - toko online
 ------------------------------------------------------------------------------------------------------------------------------
 III. MANAGEMEN
 ------------------------------------------------------------------------------------------------------------------------------
