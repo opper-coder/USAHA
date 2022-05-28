@@ -2,6 +2,20 @@ BASRENG ONLINE
 ==============================================================================================================================
 I. PRODUKSI
   1. PERALATAN
+    pekerjaan
+      a. pengolahan ikan
+      b. adonan
+      c. cetakan
+      d. rempah
+      e. rebus
+      f. goreng
+    alat
+      a.
+      b. adonan
+      c.
+      d. blender
+      e.
+      f. 
   2. CARA
   3. BAHAN
     - tepung kanji
