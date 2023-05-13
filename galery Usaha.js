@@ -13,3 +13,5 @@ Contoh Pekerjaan:
   - pertanian hidroponik
   - pembuatan pentol bakso, pentol siaomay untuk pedagang saja, no public
   - pengolahan guludan peratanian, pasang mulsa, dll
+  - percetakan meuble
+  - ToolKit pengolahan kelapa, Kupas, kopra, Asap cair, Arang,  
