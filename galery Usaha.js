@@ -14,5 +14,5 @@ Contoh Pekerjaan:
   - pembuatan pentol bakso, pentol siaomay untuk pedagang saja, no public
   - pengolahan guludan peratanian, pasang mulsa, dll
   - percetakan meuble
-  - ToolKit pengolahan kelapa, Kupas, kopra, Asap cair, Arang,  
+  - ToolKit pengolahan kelapa, Kupas, kopra, Asap cair, Arang, alat panjat 
   - produk whitelabel (misalnya kosmetik, kedas, )
