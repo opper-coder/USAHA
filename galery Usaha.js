@@ -15,3 +15,4 @@ Contoh Pekerjaan:
   - pengolahan guludan peratanian, pasang mulsa, dll
   - percetakan meuble
   - ToolKit pengolahan kelapa, Kupas, kopra, Asap cair, Arang,  
+  - produk whitelabel (misalnya kosmetik, kedas, )
