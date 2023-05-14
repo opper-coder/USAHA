@@ -3,7 +3,7 @@ bagi yang berminat silahkan menggunakan fasilitas dari kami
 kita lakukan MOU dengan berikan konsep, fasilitas dan beberapa IDE dan kita mendapatkan Saham / Royalty
 Fasilitas dari kami:
   - Konsep dasar
-  - Peralatan Robotik
+  - Peralatan mekanik, Robotik
   - sistem dalam dashboard dan app
   - kalkulasi dan margin
 Contoh Pekerjaan:
